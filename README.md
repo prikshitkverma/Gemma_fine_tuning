@@ -1,4 +1,4 @@
-# Natural Farming QA Model baseline 🌱
+# Natural Farming QA baseline Model  🌱
 
 Fine-tune Google's Gemma 3 1B model for answering questions about natural farming practices using Supervised Fine-Tuning (SFT).
 
