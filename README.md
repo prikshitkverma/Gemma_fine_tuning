@@ -231,15 +231,10 @@ sft_config.gradient_accumulation_steps = 8
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google** for the Gemma model series
 - **Hugging Face** for the transformers and TRL libraries
-- **Natural Farming Community** for domain expertise
 
 ## 📚 Additional Resources
 
